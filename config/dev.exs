@@ -1,14 +1,15 @@
+
 use Mix.Config
 
 # username will be the name use to configure
-# postgres. ex: `create user brokerage`
+# postgres. ex: `create user capstone_julianne`
 # password must be the same password used in db
-# ex: `alter user brokerage password 'postgres';`
+# ex: `alter user capstone_julianne password 'postgres';`
 # Configure your database
 config :app, App.Repo,
-  username: "brokerage",
+  username: "capstone_julianne",
   password: "postgres",
-  database: "brokerage",
+  database: "capstone_julianne",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10

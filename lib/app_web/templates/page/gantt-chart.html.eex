@@ -1,0 +1,94 @@
+<h1 class="gantt-chart" align="center"><strong>Gantt Chart</strong></h1>
+<table>
+  <tbody>
+    <tr class="gantt-chart-tr">
+      <td>Preparation of thesis proposal</td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Presentation of thesis proposal</td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Preparation & Submission of thesis application to ethics committee</td>
+      <td></td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Data collection</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Data analysis</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Report writing</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Submission of thesis</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Presentation of thesis</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="bg-border-darkred"></td>
+    </tr>
+  </tbody>
+</table>
+

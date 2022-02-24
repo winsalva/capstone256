@@ -27,6 +27,8 @@ defmodule AppWeb.Router do
     post "/login", SessionController, :create
     delete "/logout", SessionController, :delete
 
+    get "/gantt-chart", PageController, :gantt_chart
+
     resources "/uploads", UploadController, only: [:index, :new, :create, :show, :edit, :update, :delete]
 
     resources "/blogs", BlogController, only: [:index, :new, :create, :show, :edit, :update, :delete]
